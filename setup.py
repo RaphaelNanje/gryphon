@@ -74,7 +74,7 @@ setuptools.setup(
         'MarkupSafe==1.0',
         'mock==1.0.1',
         'more-itertools>=4.2.0,<5',
-        'MySQL-python==1.2.5',
+        'mysqlclient',
         'nose==1.3.7',
         'pathlib2==2.3.2',
         'pexpect==4.6.0',
